@@ -1,0 +1,987 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DP_Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040" xsi:schemaLocation="http://www.sis.se/ss637040 ss637040.xsd" gml:id="dataset">
+  <gml:boundedBy>
+    <gml:Envelope>
+      <gml:pos srsDimension="2">6225465.0553 198712.5645</gml:pos>
+      <gml:pos srsDimension="2">6228229.5136 455717.5155</gml:pos>
+    </gml:Envelope>
+  </gml:boundedBy>
+  <tillampning>plan</tillampning>
+  <beskrivning>Plan exporterad från Focus Detaljplan enligt SS637040:2016</beskrivning>
+  <grans>
+    <DP_Grans gml:id="L1" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c1">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228002.6946 198872.2954</gml:pos>
+              <gml:pos srsDimension="2">6227999.6888 198867.726</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228002.6946 198872.2954</gml:pos>
+              <gml:pos srsDimension="2">6228009.6641 198861.4609</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L13" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c13">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228165.5606 198834.3213</gml:pos>
+              <gml:pos srsDimension="2">6228170.1317 198830.3959</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L14" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c14">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228170.1317 198830.3959</gml:pos>
+              <gml:pos srsDimension="2">6228177.7004 198823.8963</gml:pos>
+              <gml:pos srsDimension="2">6228221.2949 198786.5689</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L15" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c15">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228163.3345 198831.189</gml:pos>
+              <gml:pos srsDimension="2">6228165.5606 198834.3213</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L16" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c16">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228091.236 198719.1992</gml:pos>
+              <gml:pos srsDimension="2">6228167.4287 198826.5924</gml:pos>
+              <gml:pos srsDimension="2">6228170.1317 198830.3959</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L17" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>plan</typ>
+      <linje>
+        <gml:Curve gml:id="c17">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228091.236 198719.1992</gml:pos>
+              <gml:pos srsDimension="2">6228095.1116 198712.5645</gml:pos>
+              <gml:pos srsDimension="2">6228173.1378 198822.5419</gml:pos>
+              <gml:pos srsDimension="2">6228175.0966 198820.8598</gml:pos>
+              <gml:pos srsDimension="2">6228217.1707 198784.8342</gml:pos>
+              <gml:pos srsDimension="2">6228221.2949 198786.5689</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L18" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>plan</typ>
+      <linje>
+        <gml:Curve gml:id="c18">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6227999.6888 198867.726</gml:pos>
+              <gml:pos srsDimension="2">6228051.7572 198786.7832</gml:pos>
+              <gml:pos srsDimension="2">6228091.236 198719.1992</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L19" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c19">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228009.9345 198883.3016</gml:pos>
+              <gml:pos srsDimension="2">6228002.6946 198872.2954</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L20" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>eg</typ>
+      <linje>
+        <gml:Curve gml:id="c20">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228163.3345 198831.189</gml:pos>
+              <gml:pos srsDimension="2">6228139.6547 198849.2228</gml:pos>
+              <gml:pos srsDimension="2">6228123.1631 198859.6651</gml:pos>
+              <gml:pos srsDimension="2">6228115.06 198863.1117</gml:pos>
+              <gml:pos srsDimension="2">6228086.0936 198875.4019</gml:pos>
+              <gml:pos srsDimension="2">6228057.2377 198887.6518</gml:pos>
+              <gml:pos srsDimension="2">6228035.5026 198896.8826</gml:pos>
+              <gml:pos srsDimension="2">6228025.7946 198896.4944</gml:pos>
+              <gml:pos srsDimension="2">6228014.9472 198880.0042</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L21" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c21">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228015.4872 198871.727</gml:pos>
+              <gml:pos srsDimension="2">6228016.9783 198878.6681</gml:pos>
+              <gml:pos srsDimension="2">6228014.9472 198880.0042</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L22" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>eg</typ>
+      <linje>
+        <gml:Curve gml:id="c22">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6225467.1433 455717.5155</gml:pos>
+              <gml:pos srsDimension="2">6225466.7763 455717.1788</gml:pos>
+              <gml:pos srsDimension="2">6225466.2283 455716.7759</gml:pos>
+              <gml:pos srsDimension="2">6225465.427 455716.2872</gml:pos>
+              <gml:pos srsDimension="2">6225465.2701 455715.7066</gml:pos>
+              <gml:pos srsDimension="2">6225465.0553 455714.1244</gml:pos>
+              <gml:pos srsDimension="2">6225465.3348 455713.3439</gml:pos>
+              <gml:pos srsDimension="2">6225466.0602 455712.6428</gml:pos>
+              <gml:pos srsDimension="2">6225466.9736 455711.1101</gml:pos>
+              <gml:pos srsDimension="2">6225470.4655 455705.7648</gml:pos>
+              <gml:pos srsDimension="2">6225473.867 455700.4222</gml:pos>
+              <gml:pos srsDimension="2">6225474.4202 455699.1946</gml:pos>
+              <gml:pos srsDimension="2">6225475.6901 455697.5932</gml:pos>
+              <gml:pos srsDimension="2">6225478.649 455693.2471</gml:pos>
+              <gml:pos srsDimension="2">6225482.4044 455687.5995</gml:pos>
+              <gml:pos srsDimension="2">6225485.129 455683.2185</gml:pos>
+              <gml:pos srsDimension="2">6225488.0589 455678.9407</gml:pos>
+              <gml:pos srsDimension="2">6225490.669 455674.8815</gml:pos>
+              <gml:pos srsDimension="2">6225493.1492 455670.9591</gml:pos>
+              <gml:pos srsDimension="2">6225496.3626 455666.1619</gml:pos>
+              <gml:pos srsDimension="2">6225499.6982 455660.8409</gml:pos>
+              <gml:pos srsDimension="2">6225502.3175 455656.7275</gml:pos>
+              <gml:pos srsDimension="2">6225505.2359 455652.2747</gml:pos>
+              <gml:pos srsDimension="2">6225507.4519 455648.7818</gml:pos>
+              <gml:pos srsDimension="2">6225508.6207 455646.7646</gml:pos>
+              <gml:pos srsDimension="2">6225508.6749 455646.122</gml:pos>
+              <gml:pos srsDimension="2">6225507.3842 455644.5049</gml:pos>
+              <gml:pos srsDimension="2">6225506.3885 455643.7151</gml:pos>
+              <gml:pos srsDimension="2">6225505.2269 455642.9423</gml:pos>
+              <gml:pos srsDimension="2">6225504.07 455642.9117</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L23" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c23">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228009.9345 198883.3016</gml:pos>
+              <gml:pos srsDimension="2">6228012.5074 198881.6091</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L24" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c24">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228012.0107 198862.9704</gml:pos>
+              <gml:pos srsDimension="2">6228009.6641 198861.4609</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L25" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c25">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228012.0107 198862.9704</gml:pos>
+              <gml:pos srsDimension="2">6228013.8619 198864.1613</gml:pos>
+              <gml:pos srsDimension="2">6228015.4872 198871.727</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L26" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c26">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228163.3345 198831.189</gml:pos>
+              <gml:pos srsDimension="2">6228162.5352 198830.0642</gml:pos>
+              <gml:pos srsDimension="2">6228096.8505 198737.4821</gml:pos>
+              <gml:pos srsDimension="2">6228093.909 198737.465</gml:pos>
+              <gml:pos srsDimension="2">6228071.1086 198766.3965</gml:pos>
+              <gml:pos srsDimension="2">6228056.0204 198789.3979</gml:pos>
+              <gml:pos srsDimension="2">6228050.6177 198797.7966</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L27" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c27">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228050.6177 198797.7966</gml:pos>
+              <gml:pos srsDimension="2">6228009.6641 198861.4609</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L28" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>eg_ad</typ>
+      <linje>
+        <gml:Curve gml:id="c28">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228012.0107 198862.9704</gml:pos>
+              <gml:pos srsDimension="2">6228052.9654 198799.6588</gml:pos>
+              <gml:pos srsDimension="2">6228052.1923 198799.0456</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L29" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>eg_ad</typ>
+      <linje>
+        <gml:Curve gml:id="c29">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228052.1923 198799.0456</gml:pos>
+              <gml:pos srsDimension="2">6228050.6177 198797.7966</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L30" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>eg</typ>
+      <linje>
+        <gml:Curve gml:id="c30">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228015.4872 198871.727</gml:pos>
+              <gml:pos srsDimension="2">6228028.5604 198891.601</gml:pos>
+              <gml:pos srsDimension="2">6228034.581 198891.8418</gml:pos>
+              <gml:pos srsDimension="2">6228055.2832 198883.0496</gml:pos>
+              <gml:pos srsDimension="2">6228084.1397 198870.7995</gml:pos>
+              <gml:pos srsDimension="2">6228113.1071 198858.5089</gml:pos>
+              <gml:pos srsDimension="2">6228120.8319 198855.2232</gml:pos>
+              <gml:pos srsDimension="2">6228136.7973 198845.114</gml:pos>
+              <gml:pos srsDimension="2">6228158.8737 198828.3013</gml:pos>
+              <gml:pos srsDimension="2">6228095.813 198739.4761</gml:pos>
+              <gml:pos srsDimension="2">6228094.8748 198739.4706</gml:pos>
+              <gml:pos srsDimension="2">6228072.7333 198767.5661</gml:pos>
+              <gml:pos srsDimension="2">6228057.6976 198790.4875</gml:pos>
+              <gml:pos srsDimension="2">6228052.1923 198799.0456</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L31" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c31">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228165.5606 198834.3213</gml:pos>
+              <gml:pos srsDimension="2">6228166.8122 198836.0824</gml:pos>
+              <gml:pos srsDimension="2">6228143.0836 198854.1533</gml:pos>
+              <gml:pos srsDimension="2">6228125.9606 198864.9954</gml:pos>
+              <gml:pos srsDimension="2">6228117.4036 198868.6351</gml:pos>
+              <gml:pos srsDimension="2">6228088.4382 198880.9249</gml:pos>
+              <gml:pos srsDimension="2">6228059.5831 198893.1744</gml:pos>
+              <gml:pos srsDimension="2">6228036.6084 198902.9316</gml:pos>
+              <gml:pos srsDimension="2">6228026.4504 198902.5254</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L32" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c32">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228026.4504 198902.5254</gml:pos>
+              <gml:pos srsDimension="2">6228022.4755 198902.3664</gml:pos>
+              <gml:pos srsDimension="2">6228009.9345 198883.3016</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L33" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>anv</typ>
+      <linje>
+        <gml:Curve gml:id="c33">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228014.9472 198880.0042</gml:pos>
+              <gml:pos srsDimension="2">6228012.5074 198881.6091</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L34" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>ad</typ>
+      <linje>
+        <gml:Curve gml:id="c34">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228012.5074 198881.6091</gml:pos>
+              <gml:pos srsDimension="2">6228012.7655 198883.9264</gml:pos>
+              <gml:pos srsDimension="2">6228017.198 198890.5095</gml:pos>
+              <gml:pos srsDimension="2">6228023.9608 198899.559</gml:pos>
+              <gml:pos srsDimension="2">6228026.4504 198902.5254</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <grans>
+    <DP_Grans gml:id="L35" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <typ>plan</typ>
+      <linje>
+        <gml:Curve gml:id="c35">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:pos srsDimension="2">6228221.2949 198786.5689</gml:pos>
+              <gml:pos srsDimension="2">6228223.6244 198787.5487</gml:pos>
+              <gml:pos srsDimension="2">6228229.5136 198790.033</gml:pos>
+              <gml:pos srsDimension="2">6228225.3268 198799.9579</gml:pos>
+              <gml:pos srsDimension="2">6228222.961 198805.5826</gml:pos>
+              <gml:pos srsDimension="2">6228215.298 198806.817</gml:pos>
+              <gml:pos srsDimension="2">6228201.7801 198819.4647</gml:pos>
+              <gml:pos srsDimension="2">6228184.9839 198833.3845</gml:pos>
+              <gml:pos srsDimension="2">6228182.3715 198835.5457</gml:pos>
+              <gml:pos srsDimension="2">6228148.227 198861.549</gml:pos>
+              <gml:pos srsDimension="2">6228130.1569 198872.9909</gml:pos>
+              <gml:pos srsDimension="2">6228120.9189 198876.9202</gml:pos>
+              <gml:pos srsDimension="2">6228091.9551 198889.2093</gml:pos>
+              <gml:pos srsDimension="2">6228063.1012 198901.4583</gml:pos>
+              <gml:pos srsDimension="2">6228022.103 198918.87</gml:pos>
+              <gml:pos srsDimension="2">6227994.9846 198875.0389</gml:pos>
+              <gml:pos srsDimension="2">6227999.6888 198867.726</gml:pos>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </linje>
+    </DP_Grans>
+  </grans>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="a">
+      <minus xlink:href="#L15" />
+      <plus xlink:href="#L26" />
+      <plus xlink:href="#L27" />
+      <minus xlink:href="#L24" />
+      <plus xlink:href="#L25" />
+      <plus xlink:href="#L21" />
+      <plus xlink:href="#L33" />
+      <minus xlink:href="#L23" />
+      <minus xlink:href="#L32" />
+      <minus xlink:href="#L31" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="b">
+      <plus xlink:href="#L21" />
+      <minus xlink:href="#L20" />
+      <plus xlink:href="#L26" />
+      <minus xlink:href="#L29" />
+      <minus xlink:href="#L30" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="plan">
+      <minus xlink:href="#L35" />
+      <minus xlink:href="#L17" />
+      <minus xlink:href="#L18" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="c">
+      <minus xlink:href="#L1" />
+      <plus xlink:href="#L2" />
+      <minus xlink:href="#L27" />
+      <minus xlink:href="#L26" />
+      <plus xlink:href="#L15" />
+      <plus xlink:href="#L13" />
+      <minus xlink:href="#L16" />
+      <minus xlink:href="#L18" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="d">
+      <plus xlink:href="#L25" />
+      <plus xlink:href="#L30" />
+      <minus xlink:href="#L28" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="e">
+      <plus xlink:href="#L19" />
+      <plus xlink:href="#L1" />
+      <minus xlink:href="#L35" />
+      <minus xlink:href="#L14" />
+      <minus xlink:href="#L13" />
+      <plus xlink:href="#L31" />
+      <plus xlink:href="#L32" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="f">
+      <plus xlink:href="#L16" />
+      <plus xlink:href="#L14" />
+      <minus xlink:href="#L17" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="g">
+      <plus xlink:href="#L24" />
+      <minus xlink:href="#L2" />
+      <minus xlink:href="#L19" />
+      <plus xlink:href="#L23" />
+      <minus xlink:href="#L33" />
+      <minus xlink:href="#L21" />
+      <minus xlink:href="#L25" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="h">
+      <plus xlink:href="#L27" />
+      <minus xlink:href="#L24" />
+      <plus xlink:href="#L28" />
+      <plus xlink:href="#L29" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="i">
+      <minus xlink:href="#L23" />
+      <minus xlink:href="#L32" />
+      <minus xlink:href="#L34" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="j">
+      <minus xlink:href="#L15" />
+      <plus xlink:href="#L20" />
+      <plus xlink:href="#L33" />
+      <minus xlink:href="#L23" />
+      <minus xlink:href="#L32" />
+      <minus xlink:href="#L31" />
+    </DP_Omrade>
+  </omrade>
+  <omrade>
+    <DP_Omrade xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.sis.se/ss637040" gml:id="ba">
+      <plus xlink:href="#L27" />
+      <minus xlink:href="#L24" />
+      <plus xlink:href="#L28" />
+      <plus xlink:href="#L29" />
+    </DP_Omrade>
+  </omrade>
+  <plan>
+    <DP_Plan gml:id="i17" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+      <uuid>5ac8e403-314c-495b-ab6a-280987424d0a</uuid>
+      <planid>BN16/1724</planid>
+      <plantyp>DP</plantyp>
+      <forslag>false</forslag>
+      <plannamn>Oppmanna-Tollarp 2:32 och del av 1:22</plannamn>
+      <kommun>1290</kommun>
+      <registreringsdatum>2017-05-15+02:00</registreringsdatum>
+      <registerstatus>f</registerstatus>
+      <hojdsystem>RH 2000</hojdsystem>
+      <koordinatsystem>SWEREF99_13_30</koordinatsystem>
+      <katalog>Boverket</katalog>
+      <katalogversion>07.07.2016</katalogversion>
+      <planomrade xlink:href="#plan" />
+      <anvandningsbestammelse>
+        <DP_Anvandningsbestammelse gml:id="i1" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>03bcb275-ac6d-4443-bace-65aa39e23972</uuid>
+          <bestammelseid>1</bestammelseid>
+          <beteckning>R</beteckning>
+          <index>1</index>
+          <insattning>
+            <gml:Point gml:id="p3">
+              <gml:pos srsDimension="2">6228089.7591 198831.408</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>0</rotation>
+          <omrade xlink:href="#a" />
+          <anvandningsslag>DP_KM_R_A</anvandningsslag>
+          <precisering>Idrott, bad</precisering>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i18" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>d3dd3c8a-5ff6-4f89-8097-9f2b28f0e835</uuid>
+              <bestammelseid>18</bestammelseid>
+              <beteckning>13</beteckning>
+              <insattning>
+                <gml:Point gml:id="p4">
+                  <gml:pos srsDimension="2">6228077.0026 198825.2928</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#d" />
+              <bestammelsetyp>DP_KM_Eg_Utform_Nockhojd_Meter</bestammelsetyp>
+              <variabel>
+                <DP_VarDecimaltal>
+                  <namn>hojd</namn>
+                  <varde>13</varde>
+                </DP_VarDecimaltal>
+              </variabel>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i19" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>5472c0a7-bcdb-48a0-8986-d409b45ab160</uuid>
+              <bestammelseid>19</bestammelseid>
+              <insattning>
+                <gml:Point gml:id="p5">
+                  <gml:pos srsDimension="2">6228153.5017 198834.6065</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#b" />
+              <bestammelsetyp>DP_KM_Eg_Omfatt_Korsmark_A</bestammelsetyp>
+              <variabel>
+                <DP_VarText>
+                  <namn>komplementbyggnad</namn>
+                  <varde>komplementbyggnad. Bestämmelsen avser inte andra byggnadsverk än byggnader.</varde>
+                </DP_VarText>
+              </variabel>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i20" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>dc21c67b-161b-4f96-926f-3b4ef7fa0b59</uuid>
+              <bestammelseid>20</bestammelseid>
+              <beteckning>e</beteckning>
+              <index>5500</index>
+              <insattning>
+                <gml:Point gml:id="p6">
+                  <gml:pos srsDimension="2">6228083.4196 198824.5805</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#d" />
+              <bestammelsetyp>DP_KM_Eg_Omfatt_Byggnadsarea_Kvm</bestammelsetyp>
+              <variabel>
+                <DP_VarDecimaltal>
+                  <namn>exploatering</namn>
+                  <varde>5500</varde>
+                </DP_VarDecimaltal>
+              </variabel>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i21" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>c7b88b83-1363-473b-8b31-1c4da62a82e3</uuid>
+              <bestammelseid>21</bestammelseid>
+              <insattning>
+                <gml:Point gml:id="p7">
+                  <gml:pos srsDimension="2">6228111.4989 198866.8022</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#j" />
+              <bestammelsetyp>DP_KM_Eg_Omfatt_Prickmark</bestammelsetyp>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i22" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>ad710f10-4184-4fd2-be5a-d93419e9e63e</uuid>
+              <bestammelseid>22</bestammelseid>
+              <insattning>
+                <gml:Point gml:id="p8">
+                  <gml:pos srsDimension="2">6228020.4093 198847.1791</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#ba" />
+              <bestammelsetyp>DP_KM_Eg_Omfatt_Prickmark</bestammelsetyp>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <administrativBestammelse>
+            <DP_AdministrativBestammelse gml:id="i23" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>83a2a476-3eaf-476b-a5af-446383aa87fa</uuid>
+              <bestammelseid>23</bestammelseid>
+              <beteckning>u</beteckning>
+              <insattning>
+                <gml:Point gml:id="p9">
+                  <gml:pos srsDimension="2">6228029.9578 198830.212</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#h" />
+              <bestammelsetyp>DP_KM_Ad_Markres_Underjord</bestammelsetyp>
+            </DP_AdministrativBestammelse>
+          </administrativBestammelse>
+          <administrativBestammelse>
+            <DP_AdministrativBestammelse gml:id="i24" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>4d9d54c1-c000-4161-ae28-6382859b0fdb</uuid>
+              <bestammelseid>24</bestammelseid>
+              <beteckning>u</beteckning>
+              <insattning>
+                <gml:Point gml:id="p10">
+                  <gml:pos srsDimension="2">6228011.8322 198884.7918</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#i" />
+              <bestammelsetyp>DP_KM_Ad_Markres_Underjord</bestammelsetyp>
+            </DP_AdministrativBestammelse>
+          </administrativBestammelse>
+        </DP_Anvandningsbestammelse>
+      </anvandningsbestammelse>
+      <anvandningsbestammelse>
+        <DP_Anvandningsbestammelse gml:id="i2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>fbe730da-020c-4512-906c-11f3ecd055b7</uuid>
+          <bestammelseid>2</bestammelseid>
+          <beteckning>S</beteckning>
+          <insattning>
+            <gml:Point gml:id="p11">
+              <gml:pos srsDimension="2">6228089.7591 198826.2832</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>0</rotation>
+          <omrade xlink:href="#a" />
+          <anvandningsslag>DP_KM_S</anvandningsslag>
+          <huvudsaklig>true</huvudsaklig>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i25" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>d3dd3c8a-5ff6-4f89-8097-9f2b28f0e835</uuid>
+              <bestammelseid>25</bestammelseid>
+              <beteckning>13</beteckning>
+              <insattning>
+                <gml:Point gml:id="p12">
+                  <gml:pos srsDimension="2">6228077.0026 198825.2928</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#d" />
+              <bestammelsetyp>DP_KM_Eg_Utform_Nockhojd_Meter</bestammelsetyp>
+              <variabel>
+                <DP_VarDecimaltal>
+                  <namn>hojd</namn>
+                  <varde>13</varde>
+                </DP_VarDecimaltal>
+              </variabel>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i26" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>5472c0a7-bcdb-48a0-8986-d409b45ab160</uuid>
+              <bestammelseid>26</bestammelseid>
+              <insattning>
+                <gml:Point gml:id="p13">
+                  <gml:pos srsDimension="2">6228153.5017 198834.6065</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#b" />
+              <bestammelsetyp>DP_KM_Eg_Omfatt_Korsmark_A</bestammelsetyp>
+              <variabel>
+                <DP_VarText>
+                  <namn>komplementbyggnad</namn>
+                  <varde>komplementbyggnad. Bestämmelsen avser inte andra byggnadsverk än byggnader.</varde>
+                </DP_VarText>
+              </variabel>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i27" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>dc21c67b-161b-4f96-926f-3b4ef7fa0b59</uuid>
+              <bestammelseid>27</bestammelseid>
+              <beteckning>e</beteckning>
+              <index>5500</index>
+              <insattning>
+                <gml:Point gml:id="p14">
+                  <gml:pos srsDimension="2">6228083.4196 198824.5805</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#d" />
+              <bestammelsetyp>DP_KM_Eg_Omfatt_Byggnadsarea_Kvm</bestammelsetyp>
+              <variabel>
+                <DP_VarDecimaltal>
+                  <namn>exploatering</namn>
+                  <varde>5500</varde>
+                </DP_VarDecimaltal>
+              </variabel>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i28" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>c7b88b83-1363-473b-8b31-1c4da62a82e3</uuid>
+              <bestammelseid>28</bestammelseid>
+              <insattning>
+                <gml:Point gml:id="p15">
+                  <gml:pos srsDimension="2">6228111.4989 198866.8022</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#j" />
+              <bestammelsetyp>DP_KM_Eg_Omfatt_Prickmark</bestammelsetyp>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <egenskapsbestammelse>
+            <DP_Egenskapsbestammelse gml:id="i29" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>ad710f10-4184-4fd2-be5a-d93419e9e63e</uuid>
+              <bestammelseid>29</bestammelseid>
+              <insattning>
+                <gml:Point gml:id="p16">
+                  <gml:pos srsDimension="2">6228020.4093 198847.1791</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#ba" />
+              <bestammelsetyp>DP_KM_Eg_Omfatt_Prickmark</bestammelsetyp>
+            </DP_Egenskapsbestammelse>
+          </egenskapsbestammelse>
+          <administrativBestammelse>
+            <DP_AdministrativBestammelse gml:id="i30" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>83a2a476-3eaf-476b-a5af-446383aa87fa</uuid>
+              <bestammelseid>30</bestammelseid>
+              <beteckning>u</beteckning>
+              <insattning>
+                <gml:Point gml:id="p17">
+                  <gml:pos srsDimension="2">6228029.9578 198830.212</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#h" />
+              <bestammelsetyp>DP_KM_Ad_Markres_Underjord</bestammelsetyp>
+            </DP_AdministrativBestammelse>
+          </administrativBestammelse>
+          <administrativBestammelse>
+            <DP_AdministrativBestammelse gml:id="i31" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+              <uuid>4d9d54c1-c000-4161-ae28-6382859b0fdb</uuid>
+              <bestammelseid>31</bestammelseid>
+              <beteckning>u</beteckning>
+              <insattning>
+                <gml:Point gml:id="p18">
+                  <gml:pos srsDimension="2">6228011.8322 198884.7918</gml:pos>
+                </gml:Point>
+              </insattning>
+              <rotation>0</rotation>
+              <omrade xlink:href="#i" />
+              <bestammelsetyp>DP_KM_Ad_Markres_Underjord</bestammelsetyp>
+            </DP_AdministrativBestammelse>
+          </administrativBestammelse>
+        </DP_Anvandningsbestammelse>
+      </anvandningsbestammelse>
+      <anvandningsbestammelse>
+        <DP_Anvandningsbestammelse gml:id="i7" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>7f013ab7-fc5d-41de-a2af-63f865fda316</uuid>
+          <bestammelseid>7</bestammelseid>
+          <beteckning>GÅNG</beteckning>
+          <insattning>
+            <gml:Point gml:id="p19">
+              <gml:pos srsDimension="2">6228088.3136 198726.4983</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>329.742792961291</rotation>
+          <omrade xlink:href="#c" />
+          <anvandningsslag>DP_AP_Ko_Gang</anvandningsslag>
+          <huvudsaklig>true</huvudsaklig>
+        </DP_Anvandningsbestammelse>
+      </anvandningsbestammelse>
+      <anvandningsbestammelse>
+        <DP_Anvandningsbestammelse gml:id="i8" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>48dcaad1-9fbb-4ffe-b062-069690131e4f</uuid>
+          <bestammelseid>8</bestammelseid>
+          <beteckning>CYKEL</beteckning>
+          <insattning>
+            <gml:Point gml:id="p20">
+              <gml:pos srsDimension="2">6228077.3118 198745.1876</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>329.577412308742</rotation>
+          <omrade xlink:href="#c" />
+          <anvandningsslag>DP_AP_Ko_Cykelmoped</anvandningsslag>
+        </DP_Anvandningsbestammelse>
+      </anvandningsbestammelse>
+      <anvandningsbestammelse>
+        <DP_Anvandningsbestammelse gml:id="i10" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>15a938d8-18af-4164-8a05-d982275c6772</uuid>
+          <bestammelseid>10</bestammelseid>
+          <beteckning>GATA</beteckning>
+          <insattning>
+            <gml:Point gml:id="p21">
+              <gml:pos srsDimension="2">6228135.6886 198861.3759</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>300.373843026812</rotation>
+          <omrade xlink:href="#e" />
+          <anvandningsslag>DP_AP_Ko_Gata</anvandningsslag>
+        </DP_Anvandningsbestammelse>
+      </anvandningsbestammelse>
+      <anvandningsbestammelse>
+        <DP_Anvandningsbestammelse gml:id="i11" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>0b1e5f5e-a238-4ac2-af73-065b64e32e34</uuid>
+          <bestammelseid>11</bestammelseid>
+          <beteckning>NATUR</beteckning>
+          <insattning>
+            <gml:Point gml:id="p22">
+              <gml:pos srsDimension="2">6228123.1131 198762.7482</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>35.357209340161</rotation>
+          <omrade xlink:href="#f" />
+          <anvandningsslag>DP_AP_Ko_Natur</anvandningsslag>
+        </DP_Anvandningsbestammelse>
+      </anvandningsbestammelse>
+      <anvandningsbestammelse>
+        <DP_Anvandningsbestammelse gml:id="i12" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>1e7c555d-1d28-4507-a04a-631312581fde</uuid>
+          <bestammelseid>12</bestammelseid>
+          <beteckning>E</beteckning>
+          <insattning>
+            <gml:Point gml:id="p23">
+              <gml:pos srsDimension="2">6228007.9622 198870.9197</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>0</rotation>
+          <omrade xlink:href="#g" />
+          <anvandningsslag>DP_KM_E</anvandningsslag>
+        </DP_Anvandningsbestammelse>
+      </anvandningsbestammelse>
+      <generellPlanbestammelse>
+        <DP_AdministrativBestammelse gml:id="i5" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>a90887c2-ae10-4644-ba52-df362b3599ad</uuid>
+          <bestammelseid>5</bestammelseid>
+          <insattning>
+            <gml:Point gml:id="p1">
+              <gml:pos srsDimension="2">6228068.9823 198838.783</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>0</rotation>
+          <omrade xlink:href="#plan" />
+          <bestammelsetyp>DP_PO_Ad_Genomforande</bestammelsetyp>
+          <variabel>
+            <DP_VarHeltal>
+              <namn>antal</namn>
+              <varde>5</varde>
+            </DP_VarHeltal>
+          </variabel>
+        </DP_AdministrativBestammelse>
+      </generellPlanbestammelse>
+      <generellPlanbestammelse>
+        <DP_AdministrativBestammelse gml:id="i6" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.sis.se/ss637040">
+          <uuid>8df62fe5-2232-450c-a9ad-8756465b8799</uuid>
+          <bestammelseid>6</bestammelseid>
+          <insattning>
+            <gml:Point gml:id="p2">
+              <gml:pos srsDimension="2">6228068.9823 198838.783</gml:pos>
+            </gml:Point>
+          </insattning>
+          <rotation>0</rotation>
+          <omrade xlink:href="#plan" />
+          <bestammelsetyp>DP_PO_Ad_Strandskydd</bestammelsetyp>
+        </DP_AdministrativBestammelse>
+      </generellPlanbestammelse>
+    </DP_Plan>
+  </plan>
+</DP_Data>
